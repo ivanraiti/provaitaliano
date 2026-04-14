@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "brano": "IL LEONE E IL TOPO\n\nUn piccolo topo passò sopra il muso di un leone che dormiva. Il re della foresta lo afferrò pronto a divorarlo. 'Perdonami!' squittì il topolino, 'Se mi lascerai andare, ti sarò riconoscente per sempre'. Il leone scoppiò a ridere e lo risparmiò.\n\nPoco tempo dopo, il leone cadde in una trappola. Il topo, udite le grida, accorse e con i suoi dentini rosicchiò le corde finché il leone non fu libero. 'Vedi?' disse il roditore, 'Anche un piccolo topo può salvare un grande leone'.",
+    "testo": "Perché il leone si sveglia?",
+    "opzioni": ["Sente un rumore", "Un topo gli passa sul muso", "Ha fame", "Per il freddo"],
+    "corretta": 1
+  },
+  { "id": 2, "testo": "Cosa prova il leone sentendo la promessa del topo?", "opzioni": ["Rabbia", "Paura", "Divertimento", "Noia"], "corretta": 2 },
+  { "id": 3, "testo": "Cosa significa 'di soprassalto'?", "opzioni": ["Lentamente", "Con gioia", "Improvvisamente", "Mentre sogna"], "corretta": 2 },
+  { "id": 4, "testo": "Chi imprigiona il leone?", "opzioni": ["Il topo", "I cacciatori", "Altri animali", "Il vento"], "corretta": 1 },
+  { "id": 5, "testo": "Il topo libera il leone usando:", "opzioni": ["Le forbici", "I denti", "Una chiave", "L'aiuto degli uomini"], "corretta": 1 },
+  { "id": 6, "testo": "Qual è la morale?", "opzioni": ["I leoni sono forti", "I topi sono veloci", "Anche i piccoli possono aiutare i grandi", "Meglio non dormire"], "corretta": 2 },
+  { "id": 7, "testo": "Nella frase 'lo risparmiò', 'lo' è:", "opzioni": ["Il leone", "Il topo", "Il cacciatore", "Il muso"], "corretta": 1 },
+  { "id": 8, "testo": "Il brano è:", "opzioni": ["Una cronaca", "Una poesia", "Una favola", "Una ricetta"], "corretta": 2 },
+  { "id": 9, "testo": "Il topo alla fine si dimostra:", "opzioni": ["Disonesto", "Riconoscente", "Pauroso", "Smemorato"], "corretta": 1 },
+  { "id": 10, "testo": "Dove si svolge la storia?", "opzioni": ["In città", "Nella foresta", "Al mare", "In montagna"], "corretta": 1 }
+]
